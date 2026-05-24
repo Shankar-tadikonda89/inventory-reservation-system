@@ -12,7 +12,7 @@ The application allows users to reserve inventory items from warehouses while pr
 Add your deployed Vercel URL here:
 
 ```bash
-https://your-vercel-url.vercel.app](https://inventory-reservation-system-sable.vercel.app/
+https://inventory-reservation-system-sable.vercel.app/
 ````
 
 ---
